@@ -1,0 +1,3 @@
+episode_index,episode_steps,episode_duration_steps,episode_duration_seconds,outcome,outcome_seekers,outcome_hiders,winner,hidersCaptured,stepsHidden,timeHidden,hidersPerfectGame,gracePeriodEnded
+15,5000,5000,100.000,Timeout,Timeout,Timeout,None,0,30,0.010,False,True
+
